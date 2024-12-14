@@ -15,44 +15,7 @@ Para realizar esta practica necesitas lo siguiente
 - Sensor ultrasonico
 - Plataforma Node-red
 
-COMENZAREMOS DESCARGANDO E INSTALANDO EL NODE-RED EN EL SIGUIENTE LINK:
- https://nodejs.org/en
-
- UNA VEZ INSTALADO ABRIREMOS EL CMD EN MODO ADMINISTRADOR DE TAREAS:
-
-![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20ADMIN.png)
-
-A CONTINUACION PEGAREMOS LO SIGUIENTE Y DAREMOS ENTER
-
- ```
-npm install -g --unsafe-perm node-red
- ```
-comprobamos que funcione node-red con el siguente codigo: (con este mismo codigo podemos arrancar el programa siempre que lo necesitemos)
-
- ```
-node-red
- ```
-quedandonos asi:
-
-![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20NODERED.PNG)
-
-Con esta ventana abierta abriremos nuestro navegador y pegamos este link
-
- ```
-localhost:1880
- ```
-se abrira esta pagina y ahora instalaremos el DASHBOARD:
-
-![]()
-
-VAMOS A MANAGE PALLETE
-
-![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/MANAGE%20PALLETE.PNG
-)
-
-EN LA PESTAÑA INSTALL BUSCAMOS "node-red-dashboard" Y SELECCIONAMOS INSTALL
-
-![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSTALACION%20FIN%20DSAHBOARD.PNG)
+COMENZAREMOS COPIANDO EL SIGUIENTE CODIGO EN WOWKI:
 
 ```
 #include <ArduinoJson.h>
@@ -211,5 +174,62 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 }
 
  ```
+
+CONFIGURAMOS LA IP DE LA LINEA 14 LA DIRECCION IP ES: 35.172.255.228
+
+
+AHORA CARGAMOS LAS SIGUIENTES LIBRERIAS:
+
+![]()
+
+INSERTAMOS UN DHT22 Y SENSOR ULTRASONICO:
+
+![]()
+
+![]()
+
+REALIZAMOS LA SIGUIENTE CONEXION:
+
+![]()
+
+ AHORA VAMOS DESCARGAR E INSTALANDO EL NODE-RED EN EL SIGUIENTE LINK:
+ https://nodejs.org/en
+
+ UNA VEZ INSTALADO ABRIREMOS EL CMD EN MODO ADMINISTRADOR DE TAREAS:
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20ADMIN.png)
+
+A CONTINUACION PEGAREMOS LO SIGUIENTE Y DAREMOS ENTER
+
+ ```
+npm install -g --unsafe-perm node-red
+ ```
+comprobamos que funcione node-red con el siguente codigo: (con este mismo codigo podemos arrancar el programa siempre que lo necesitemos)
+
+ ```
+node-red
+ ```
+quedandonos asi:
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20NODERED.PNG)
+
+Con esta ventana abierta abriremos nuestro navegador y pegamos este link
+
+ ```
+localhost:1880
+ ```
+se abrira esta pagina y ahora instalaremos el DASHBOARD:
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSTALACION%20DE%20DASHBOARD.PNG)
+
+VAMOS A MANAGE PALLETE
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/MANAGE%20PALLETE.PNG
+)
+
+EN LA PESTAÑA INSTALL BUSCAMOS "node-red-dashboard" Y SELECCIONAMOS INSTALL
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSTALACION%20FIN%20DSAHBOARD.PNG)
+
 
 
