@@ -20,7 +20,7 @@ COMENZAREMOS DESCARGANDO E INSTALANDO EL NODE-RED EN EL SIGUIENTE LINK:
 
  UNA VEZ INSTALADO ABRIREMOS EL CMD EN MODO ADMINISTRADOR DE TAREAS:
 
-![]()
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20ADMIN.png)
 
 A CONTINUACION PEGAREMOS LO SIGUIENTE Y DAREMOS ENTER
 
@@ -34,7 +34,7 @@ node-red
  ```
 quedandonos asi:
 
-![]()
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20NODERED.PNG)
 
 Con esta ventana abierta abriremos nuestro navegador y pegamos este link
 
@@ -47,7 +47,8 @@ se abrira esta pagina y ahora instalaremos el DASHBOARD:
 
 VAMOS A MANAGE PALLETE
 
-![]()
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/MANAGE%20PALLETE.PNG
+)
 
 EN LA PESTAÑA INSTALL BUSCAMOS "node-red-dashboard" Y SELECCIONAMOS INSTALL
 
