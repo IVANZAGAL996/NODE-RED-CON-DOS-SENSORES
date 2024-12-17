@@ -210,7 +210,7 @@ comprobamos que funcione node-red con el siguente codigo: (con este mismo codigo
  ```
 node-red
  ```
-quedandonos asi:
+Quedandonos asi:
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/CMD%20NODERED.PNG)
 
@@ -219,7 +219,7 @@ Con esta ventana abierta abriremos nuestro navegador y pegamos este link
  ```
 localhost:1880
  ```
-se abrira esta pagina y ahora instalaremos el DASHBOARD:
+Se abrira esta pagina y ahora instalaremos el DASHBOARD:
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSTALACION%20DE%20DASHBOARD.PNG)
 
@@ -234,7 +234,7 @@ EN LA PESTAÑA INSTALL BUSCAMOS "node-red-dashboard" Y SELECCIONAMOS INSTALL
 
 LISTO YA PODEMOS EMPEZAR A TRABAJAR
 
-como primer paso insertaremos el mqttt, y lo configuramos como se muestra a continuacion
+Como primer paso insertaremos el mqtt in, y lo configuramos como se muestra a continuacion
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSERTAR%20MQTTBIN.PNG)
 
@@ -246,11 +246,11 @@ insertaremos un json y editaremos como se muestra
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20json.PNG)
 
-acontinuacion insertareos un debug
+Acontinuacion insertareos un debug
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20debug.PNG)
 
-insertaremos 3 funciones una para temperatura, humedad y distancia.
+Insertaremos 3 funciones una para temperatura, humedad y distancia.
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20fuctions.PNG)
 
@@ -258,7 +258,7 @@ Ahora para cada funcion insertaremos los indicadores y las graficas (gauge y cha
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20gauge%20y%20charts.PNG)
 
-creamos los grupos (Graficas e indicadores)
+Creamos los grupos (Graficas e indicadores)
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/agregar%20grupos%20en%20dashboard.PNG)
 
@@ -266,45 +266,45 @@ Editamos la funcion de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20temperatura.PNG)
 
-editamos la funcion de humedad
+Editamos la funcion de humedad
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20fhumedad.PNG)
 
-editamos la funcion de distancia
+Editamos la funcion de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20distancia.PNG)
 
-editamos el gauge de tempertura
+Editamos el gauge de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores.PNG)
 
-editamos el gauge de humedad
+Editamos el gauge de humedad
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores%20humedad.PNG)
 
-editamos el gauge de distancia
+Editamos el gauge de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores%20distancia.PNG)
 
-editamos el chart de tempertura
+Editamos el chart de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas.PNG)
 
-editamos el chart de humedad
+Editamos el chart de humedad
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas%20humedad.PNG)
 
-editamos el chart de distancia
+Editamos el chart de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20fraficas%20distancia.PNG)
 
-cargamos y damos en el simbolo de catarina para visualizar los resultados de nuestra programacion de la ESP 32
+Cargamos y damos en el simbolo de catarina para visualizar los resultados de nuestra programacion de la ESP 32
 
 ![]()
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/visualizar%20catarina.PNG)
 
-reultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
+Resultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/GRAFICAS%20E%20INDICADORES.PNG)
 
