@@ -250,18 +250,19 @@ acontinuacion insertareos un debug
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20debug.PNG)
 
-insertaremos funciones
+insertaremos 3 funciones una para temperatura, humedad y distancia.
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20fuctions.PNG)
 
-insertaremos los indicadores y las graficas (gauge y charts)
+Ahora para cada funcion insertaremos los indicadores y las graficas (gauge y charts).
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20gauge%20y%20charts.PNG)
 
-creamos los grupos.
+creamos los grupos (Graficas e indicadores)
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/agregar%20grupos%20en%20dashboard.PNG)
 
-editamos la funcion de tempertura
+Editamos la funcion de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20temperatura.PNG)
 
@@ -288,6 +289,7 @@ editamos el gauge de distancia
 cargamos y damos en el simbolo de catarina para visualizar los resultados de nuestra programacion de la ESP 32
 
 ![]()
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/visualizar%20catarina.PNG)
 
 reultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
