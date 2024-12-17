@@ -304,7 +304,8 @@ Cargamos y damos en el simbolo de catarina para visualizar los resultados de nue
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/visualizar%20catarina.PNG)
 
-Resultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
+ Damos click es developed y nos redigira a otra pagina en donde bservaremos nuesttros indicadores y graficas en tiempo real.
+ Resultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/GRAFICAS%20E%20INDICADORES.PNG)
 
