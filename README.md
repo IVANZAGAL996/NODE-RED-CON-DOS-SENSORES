@@ -310,7 +310,8 @@ Cargamos y damos en el simbolo de catarina para visualizar los resultados de nue
 
  Damos click es Deploy y y en el siguiente simbolo:
  
- ![]()
+![https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/DEPLOY%20IMAGE.png]
+![]
  
  Nos redigira a otra pagina en donde observaremos nuesttros indicadores y graficas en tiempo real.
  Resultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
