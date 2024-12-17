@@ -241,33 +241,56 @@ como primer paso insertaremos el mqttt, y lo configuramos como se muestra a cont
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/EDIT%20MQTT%20IN.PNG)
 
 insertaremos un json y editaremos como se muestra
+
 ![]()
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20json.PNG)
 acontinuacion insertareos un debug
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20debug.PNG)
+
 insertaremos funciones
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20fuctions.PNG)
+
 insertaremos los indicadores y las graficas (gauge y charts)
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20gauge%20y%20charts.PNG)
+
 creamos los grupos.
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/agregar%20grupos%20en%20dashboard.PNG)
 
 editamos el gauge de tempertura
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20temperatura.PNG)
+
 editamos el gauge de humedad
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20fhumedad.PNG)
+
 editamos el gauge de distancia
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20distancia.PNG)
+
 editamos el chart de tempertura
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores.PNG)
+
 editamos el chart de humedad
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas%20humedad.PNG)
+
 editamos el chart de distancia
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20fraficas%20distancia.PNG)
+
 cargamos y damos en el simbolo de catarina para visualizar los resultados de nuestra programacion de la ESP 32
+
 ![]()
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/visualizar%20catarina.PNG)
+
 reultados DE LOS INDICADORES Y GRAFICAS EN TIEMPO REAL
+
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/GRAFICAS%20E%20INDICADORES.PNG)
 
 ![]()
