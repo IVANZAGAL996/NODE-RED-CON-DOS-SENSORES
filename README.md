@@ -242,7 +242,7 @@ como primer paso insertaremos el mqttt, y lo configuramos como se muestra a cont
 
 insertaremos un json y editaremos como se muestra
 
-![]()
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20json.PNG)
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20json.PNG)
 
@@ -280,9 +280,21 @@ editamos el gauge de tempertura
 
 editamos el gauge de humedad
 
-![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas%20humedad.PNG)
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores%20humedad.PNG)
 
 editamos el gauge de distancia
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores%20distancia.PNG)
+
+editamos el chart de tempertura
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas.PNG)
+
+editamos el chart de humedad
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas%20humedad.PNG)
+
+editamos el chart de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20fraficas%20distancia.PNG)
 
