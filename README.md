@@ -245,6 +245,7 @@ insertaremos un json y editaremos como se muestra
 ![]()
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20json.PNG)
+
 acontinuacion insertareos un debug
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/insertar%20debug.PNG)
@@ -260,27 +261,27 @@ insertaremos los indicadores y las graficas (gauge y charts)
 creamos los grupos.
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/agregar%20grupos%20en%20dashboard.PNG)
 
-editamos el gauge de tempertura
+editamos la funcion de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20temperatura.PNG)
 
-editamos el gauge de humedad
+editamos la funcion de humedad
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20fhumedad.PNG)
 
-editamos el gauge de distancia
+editamos la funcion de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/edit%20f%20distancia.PNG)
 
-editamos el chart de tempertura
+editamos el gauge de tempertura
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20indicadores.PNG)
 
-editamos el chart de humedad
+editamos el gauge de humedad
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20graficas%20humedad.PNG)
 
-editamos el chart de distancia
+editamos el gauge de distancia
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/grupo%20fraficas%20distancia.PNG)
 
