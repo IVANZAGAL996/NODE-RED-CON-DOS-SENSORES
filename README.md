@@ -3,7 +3,7 @@ DHT22, ULTRASONICO
 
 # Introducción
 
-La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (DTH11) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado WOKWI.
+La Esp32 la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (DTH22) para adquirir temperatura y humedad del entorno; un sensor ultrasonico para registrar distancia Cabe aclarar que esta practica se usara un simulador llamado WOKWI y la plataforma de NODE-RED.
 
 # Material Necesario
 
