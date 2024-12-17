@@ -234,6 +234,10 @@ EN LA PESTAÑA INSTALL BUSCAMOS "node-red-dashboard" Y SELECCIONAMOS INSTALL
 
 LISTO YA PODEMOS EMPEZAR A TRABAJAR
 
+DEBEMOS RELIZAR EL SIGUIENTE ESQUEMA:
+
+![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/DIGRAMA%20NODE%20RED.PNG)
+
 Como primer paso insertaremos el mqtt in, y lo configuramos como se muestra a continuacion
 
 ![](https://github.com/IVANZAGAL996/NODE-RED-CON-DOS-SENSORES/blob/main/INSERTAR%20MQTTBIN.PNG)
